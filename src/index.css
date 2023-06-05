@@ -13,3 +13,10 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.title {
+  padding-top: 20px;
+  text-align: center;
+  font-weight: bold;
+  color:black;
+}
